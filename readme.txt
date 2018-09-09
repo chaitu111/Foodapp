@@ -1,10 +1,13 @@
-For the first time
-
+1. For the first time
 -->npm install -g create-react-native-app
 
 
-Create a React Native Project and Run in on Emulator
+2. Create a React Native Project and Run in on Emulator
 
 -->create-react-native-app AwesomeProject
 -->cd AwesomeProject
 -->npm start
+
+3. Enable Hot Reloading On An Android Emulator or Genymotion Emulator
+
+Click on Emulator and Press -> Control + M -> Enable Hot Reloading
