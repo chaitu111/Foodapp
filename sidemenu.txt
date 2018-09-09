@@ -1,4 +1,5 @@
 Customize Drawer Navigator | React Navigation
 
 --> npm install --save react-navigation
---> npm install native-base
+--> npm install --save native-base 
+
