@@ -23,7 +23,7 @@ Softwares Required
 
    Click on Emulator and Press -> Control + M -> Enable Hot Reloading
 
-4. For UI Components 
+4. For UI Library
 
    nativebase.io
 
