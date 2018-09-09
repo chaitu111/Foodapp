@@ -20,4 +20,5 @@ Softwares Required
 -->npm start
 
 3. Enable Hot Reloading On An Android Emulator or Genymotion Emulator
+
    Click on Emulator and Press -> Control + M -> Enable Hot Reloading
