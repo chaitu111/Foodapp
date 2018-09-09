@@ -9,7 +9,7 @@ Softwares Required
 7. Python
 =================================
 
-1. For the first time
+1. For the first time install the create-react-native-app command line utility
 -->npm install -g create-react-native-app
 
 
