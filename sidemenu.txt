@@ -1,0 +1,2 @@
+npm install 'react-navigation'
+npm install 'native-base'
