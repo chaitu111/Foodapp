@@ -1,3 +1,14 @@
+Softwares Required
+
+1. JDK
+2. Android Studio
+3. Node
+4. Expo
+5. Genymotion
+6. Oracle VM VirtualBox
+
+
+
 1. For the first time
 -->npm install -g create-react-native-app
 
