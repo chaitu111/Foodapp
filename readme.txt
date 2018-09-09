@@ -29,3 +29,4 @@ Softwares Required
 
 5. Code Tutorials
    rationalappdev.com
+   tutorialscapital.com
