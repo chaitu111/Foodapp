@@ -10,14 +10,14 @@ Softwares Required
 =================================
 
 1. For the first time install the create-react-native-app command line utility
--->npm install -g create-react-native-app
+   -->npm install -g create-react-native-app
 
 
 2. Create a React Native Project and Run in on Emulator
 
--->create-react-native-app AwesomeProject
--->cd AwesomeProject
--->npm start
+   -->create-react-native-app AwesomeProject
+   -->cd AwesomeProject
+   -->npm start
 
 3. Enable Hot Reloading On An Android Emulator or Genymotion Emulator
 
