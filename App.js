@@ -1,12 +1,5 @@
-import React from 'react';
-import { 
-	StyleSheet, 
-	Text, 
-	View 
-} 
-from 'react-native';
-
-
+import React  from 'react';
+import { createStackNavigator } from 'react-navigation';//install package
 // importing  Library 
 import { Container, Content, Icon, Header, Body } from 'native-base'
 import { createDrawerNavigator } from 'react-navigation'
@@ -27,8 +20,13 @@ class App extends React.Component {
 
 const MyNav = createDrawerNavigator ({
 
-  Home: { screen: HomeScreen },
-  Setting: { screen: SettingScreen }
+  Home: { 
+  screen: HomeScreen 
+  },
+  Setting: { 
+  screen: SettingScreen 
+  }
+  
 })
 
 export default App;
